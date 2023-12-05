@@ -1,3 +1,4 @@
 # Estudos pessoais <3
 
-### Repositório juntando aplicações realizadas durante meus estudos
+**1. IMC**
+   - Formulário para calcular o IMC da pessoa e mostrar o resultado e categoria 
