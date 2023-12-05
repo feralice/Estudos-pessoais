@@ -1,2 +1,3 @@
-# Estudos-pessoais
-Repositório juntando aplicações realizadas durante meus estudos
+# Estudos pessoais <3
+
+### Repositório juntando aplicações realizadas durante meus estudos
