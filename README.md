@@ -4,5 +4,5 @@
    - Formulário para calcular o IMC da pessoa e mostrar o resultado e categoria
 
 **Horario**
-   - Página em que o horário vai sendo atualizando em tempo real
+   - Página em que a data e horário são atualizados em tempo real
 
