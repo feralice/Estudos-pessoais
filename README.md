@@ -9,3 +9,6 @@ Bem-vindo ao meu repositório de estudos pessoais! Aqui, compartilho alguns cód
 
 ### Horario
    - Uma página onde a data e o horário são atualizados em tempo real. ⏰✨
+
+### Cronometro
+   - Um cronômetro básico que consegue iniciar, pausar e reiniciar ⏰
